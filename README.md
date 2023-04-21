@@ -16,7 +16,7 @@ Deploy the stablecoin contract to the Ethereum network with the desired asset or
 <li>Use the buyStablecoin function to purchase stablecoins by transferring the corresponding amount of the reserve asset(s) to the contract.</li>
 <li>Use the redeemStablecoin function to redeem stablecoins for the underlying asset(s).</li>
 <li>Use the standard ERC20 functions such as transfer, transferFrom, and approve to send and receive stablecoins between addresses.</li>
-<ol/>
+</ol>
 <h2>Requirements</h2>
 <ol>
 <li>Solidity 0.8.0 or higher</li>
